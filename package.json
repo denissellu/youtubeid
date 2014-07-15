@@ -1,6 +1,6 @@
 {
   "name": "youtubeid",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "lib/youtubeid.js",
   "description": "Generating youtube style id",
   "homepage": "denissellu.me/projects/youtube-id",
