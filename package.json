@@ -1,0 +1,37 @@
+{
+  "name": "youtubeid",
+  "version": "0.0.1",
+  "main": "lib/youtubeid.js",
+  "description": "Generating youtube style id",
+  "homepage": "denissellu.me/projects/youtube-id",
+  "bugs": "https://github.com/denissellu/youtubeid/issues",
+  "author": {
+    "name": "Denis Sellu",
+    "email": "denis@missionly.co.uk",
+    "url": "denissellu.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denissellu/youtubeid"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "youtubeid",
+    ""
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1",
+    "jshint-stylish": "^0.2.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "preferGlobal": "false"
+}
