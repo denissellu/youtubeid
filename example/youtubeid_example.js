@@ -2,5 +2,6 @@
 
 var youtubeid = require('../lib/youtubeid.js');
 
-youtubeid.awesome();
-// => awesome
+var limit = 10;
+youtubeid.generate(limit);
+// => Wc8xFWWroG
